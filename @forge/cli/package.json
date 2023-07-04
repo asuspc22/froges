@@ -52,7 +52,7 @@
     "portfinder": "^1.0.32",
     "sanitize-filename": "^1.6.3",
     "semver": "^6.3.0",
-    "tmp": "^0.1.0",
+    "tmp": "^0.2.1",
     "tslib": "^2.4.0",
     "uuid": "^3.4.0"
   },
