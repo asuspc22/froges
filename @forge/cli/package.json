@@ -45,7 +45,7 @@
     "latest-version": "^5.1.0",
     "lodash": "^4.17.21",
     "mkdirp": "^1.0.4",
-    "node-fetch": "2.6.11",
+    "node-fetch": "2.6.12",
     "node-machine-id": "^1.1.12",
     "omelette": "^0.4.17",
     "ora": "^4.0.3",
