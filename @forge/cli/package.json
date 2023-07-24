@@ -24,7 +24,7 @@
     "@forge/lint": "3.6.0",
     "@forge/manifest": "4.16.0",
     "@forge/runtime": "4.4.2",
-    "@forge/tunnel": "3.6.1",
+    "@forge/tunnel": "3.6.2",
     "@forge/util": "1.2.3",
     "@sentry/node": "^7.29.0",
     "ajv": "^6.12.6",
