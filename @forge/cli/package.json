@@ -18,7 +18,7 @@
     "postinstall": "node -e \"process.exitCode = fs.existsSync('./out/bin/postinstall.js')\" || node ./out/bin/postinstall.js"
   },
   "dependencies": {
-    "@forge/bundler": "4.10.1",
+    "@forge/bundler": "4.10.2",
     "@forge/cli-shared": "3.15.0",
     "@forge/egress": "1.2.1",
     "@forge/lint": "3.6.0",
