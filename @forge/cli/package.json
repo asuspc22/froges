@@ -21,7 +21,7 @@
     "@forge/bundler": "4.10.1",
     "@forge/cli-shared": "3.15.0",
     "@forge/egress": "1.2.1",
-    "@forge/lint": "3.6.0",
+    "@forge/lint": "3.6.1",
     "@forge/manifest": "4.16.0",
     "@forge/runtime": "4.4.2",
     "@forge/tunnel": "3.6.1",
