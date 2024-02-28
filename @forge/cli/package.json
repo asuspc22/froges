@@ -24,7 +24,7 @@
     "@forge/lint": "3.6.0",
     "@forge/manifest": "4.16.0",
     "@forge/runtime": "4.4.2",
-    "@forge/tunnel": "3.6.1",
+    "@forge/tunnel": "3.6.3",
     "@forge/util": "1.2.3",
     "@sentry/node": "^7.29.0",
     "ajv": "^6.12.6",
@@ -52,7 +52,7 @@
     "portfinder": "^1.0.32",
     "sanitize-filename": "^1.6.3",
     "semver": "^6.3.0",
-    "tmp": "^0.1.0",
+    "tmp": "^0.2.2",
     "tslib": "^2.4.0",
     "uuid": "^3.4.0"
   },
