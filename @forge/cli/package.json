@@ -18,13 +18,13 @@
     "postinstall": "node -e \"process.exitCode = fs.existsSync('./out/bin/postinstall.js')\" || node ./out/bin/postinstall.js"
   },
   "dependencies": {
-    "@forge/bundler": "4.10.1",
+    "@forge/bundler": "4.17.2",
     "@forge/cli-shared": "3.15.0",
     "@forge/egress": "1.2.1",
-    "@forge/lint": "3.6.0",
-    "@forge/manifest": "4.16.0",
+    "@forge/lint": "5.2.2",
+    "@forge/manifest": "7.5.0",
     "@forge/runtime": "4.4.2",
-    "@forge/tunnel": "3.6.1",
+    "@forge/tunnel": "5.3.1",
     "@forge/util": "1.2.3",
     "@sentry/node": "^7.29.0",
     "ajv": "^6.12.6",
